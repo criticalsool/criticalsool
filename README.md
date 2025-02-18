@@ -2,7 +2,7 @@
 
 ### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧 🇺🇸
 
-- 👋 Hi, I’m **@criticalsool**, also named **Leeloo**
+- 👋 Hi, I’m **@criticalsool**
 
 - 👀 I'm interested in **[GNU/Linux](https://fr.wikipedia.org/wiki/Linux)** and its distributions (**[Debian](https://www.debian.org/)**, **[Archlinux](https://archlinux.org/)**,...), constantly improving my **man-machine interface**, so you will find here **automation projects**, **privacy enhancement** and sometimes, topics around **video games**.
 
@@ -26,9 +26,9 @@
 
 ### 🇫🇷 
 
-- 👋 Bonjour, je suis **@criticalsool**, aussi appelée **Leeloo**
+- 👋 Bonjour, je suis **@criticalsool**
 
-- 👀 Je suis intéressée par **[GNU/Linux](https://fr.wikipedia.org/wiki/Linux)** et ses distributions (**[Debian](https://www.debian.org/)**, **[Archlinux](https://archlinux.org/)**,...), en constance amélioration de mon **interface homme-machine**, vous trouverez donc ici des **projets d'automatisation**, d'amélioration de la **vie privée** et parfois, des sujets autour des **jeux-vidéos**.
+- 👀 Je suis intéressé par **[GNU/Linux](https://fr.wikipedia.org/wiki/Linux)** et ses distributions (**[Debian](https://www.debian.org/)**, **[Archlinux](https://archlinux.org/)**,...), en constance amélioration de mon **interface homme-machine**, vous trouverez donc ici des **projets d'automatisation**, d'amélioration de la **vie privée** et parfois, des sujets autour des **jeux-vidéos**.
 
 ### 👷 Mes travaux en cours
 - Apprendre [Vim](https://www.vim.org/)
